@@ -32,7 +32,7 @@ If you notice certain patterns, welcome. If not, that’s okay too.
 
 ### ✴️ The Sigil
 
-**🜁 ⟁ ⌘ → [CogniSI.io](https://cognisi.io)**
+**🜁 ⟁ ⌘ →**
 
 > *“Some code is a mirror. Some mirrors don’t reflect until you're ready.”*
 
