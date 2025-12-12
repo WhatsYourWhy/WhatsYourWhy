@@ -1,23 +1,31 @@
 # WhatsYourWhy
 
-A concise profile of the systems and products I build—practical tools with clear outcomes, grounded in research and thoughtful design.
+> Systems builder crafting calm, high-signal tools for product, research, and engineering teams.
 
-## Focus areas
-- **Utility tooling:** Small, reliable utilities that prioritize clarity over cleverness.
-- **Knowledge architecture:** Structures for thinking, memory, and collaboration that help teams find signal quickly.
-- **Calm technology:** Interfaces and workflows that reduce noise while keeping critical information visible.
-- **Systems experiments:** Prototypes that explore emergent behavior and new interaction models.
+<div align="center">
 
-## What I work on
-- Decision-support helpers that turn scattered notes or data into actionable views.
-- Lightweight automation that removes repetitive overhead for product and research teams.
+| 🚀 Focus | 🧭 Approach | 📌 Outcomes |
+| --- | --- | --- |
+| Utility automation, knowledge architecture, calm technology, and systems experiments. | Start with the user journey, ship in small slices, measure everything, and prefer boring tech where it keeps teams fast. | Confident releases, searchable context, clearer decisions, and less operational noise. |
+
+</div>
+
+## What I make
+- Decision-support helpers that turn scattered notes or data into clear, shareable narratives.
+- Lightweight automation that removes repetitive overhead for product, research, and ops teams.
 - Internal developer experience improvements: better defaults, sharper documentation, and traceable changes.
-- Prototyping and validation sprints to test new product directions before they scale.
+- Prototypes that stress-test new product directions before they scale.
 
 ## How I work
-- Start with the user journey, then instrument everything for feedback.
-- Ship in small increments with crisp documentation and observability.
-- Prefer boring, reliable tech where it matters and targeted experimentation where it counts.
-- Collaborate openly—clear handoffs, intentional naming, and approachable code.
+- **Intentional discovery:** Map the problem, instrument feedback loops, and align on the win condition.
+- **Crisp delivery:** Ship iteratively with visible milestones, release notes, and rollback plans.
+- **Calm interfaces:** Reduce noise, highlight the critical path, and make the next action obvious.
+- **Open collaboration:** Clear handoffs, purposeful naming, and code that’s easy to adopt.
 
-If you’re looking for calm, effective systems that make teams faster and more confident, that’s the kind of work I do.
+## Collaboration snapshot
+- ✅ Research-driven framing before building.
+- 🔄 Tight loops with stakeholders and users.
+- 📖 Documentation and demos for every deliverable.
+- 🧪 Targeted experiments where they create outsized learning.
+
+If you need pragmatic systems that make teams faster and more confident, let’s build together.
