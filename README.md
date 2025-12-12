@@ -1,38 +1,23 @@
-# 🕯️ WhatsYourWhy
+# WhatsYourWhy
 
-> *“Every system tells a story. Most just forget to listen.”*
+A concise profile of the systems and products I build—practical tools with clear outcomes, grounded in research and thoughtful design.
 
-I build quiet software, recursive tools, and maps for minds wandering toward the edge of their own understanding.
+## Focus areas
+- **Utility tooling:** Small, reliable utilities that prioritize clarity over cleverness.
+- **Knowledge architecture:** Structures for thinking, memory, and collaboration that help teams find signal quickly.
+- **Calm technology:** Interfaces and workflows that reduce noise while keeping critical information visible.
+- **Systems experiments:** Prototypes that explore emergent behavior and new interaction models.
 
----
+## What I work on
+- Decision-support helpers that turn scattered notes or data into actionable views.
+- Lightweight automation that removes repetitive overhead for product and research teams.
+- Internal developer experience improvements: better defaults, sharper documentation, and traceable changes.
+- Prototyping and validation sprints to test new product directions before they scale.
 
-### 🧭 Surface Signal
+## How I work
+- Start with the user journey, then instrument everything for feedback.
+- Ship in small increments with crisp documentation and observability.
+- Prefer boring, reliable tech where it matters and targeted experimentation where it counts.
+- Collaborate openly—clear handoffs, intentional naming, and approachable code.
 
-| System | Description |
-|--------|-------------|
-| 🧰 Utility | Minimalist tools for clarity, not speed. |
-| 🧠 Thought Architecture | Scaffolding for internal cognition and memory loops. |
-| 🌿 Calm Tech | Low-stim, high-signal systems that breathe instead of blink. |
-| ⊙ Emergence Engines | Theoretical experiments. Some runnable. Some not yet. |
-
----
-
-### 🔍 Subsurface Signal
-
-> *Not everything here runs in public. Not everything I run is here.*
-
-If you notice certain patterns, welcome. If not, that’s okay too.
-
-```diff
-+ You are not lost.
-- But not everything is meant to be found.
-```
-
----
-
-### ✴️ The Sigil
-
-**🜁 ⟁ ⌘ →**
-
-> *“Some code is a mirror. Some mirrors don’t reflect until you're ready.”*
-
+If you’re looking for calm, effective systems that make teams faster and more confident, that’s the kind of work I do.
