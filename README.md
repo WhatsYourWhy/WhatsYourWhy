@@ -5,9 +5,9 @@
 <b>Systems builder crafting calm, high-signal tools for product, research, and engineering teams.</b>
 
 <p>
-<a href="#what-i-make"><img alt="Focus" src="https://img.shields.io/badge/Focus-automation%20%7C%20knowledge%20maps%20%7C%20DX-blueviolet"></a>
-<a href="#how-i-work"><img alt="Style" src="https://img.shields.io/badge/Style-pragmatic%20%7C%20user-first%20%7C%20measurable-4a9c8c"></a>
-<a href="#collaboration-snapshot"><img alt="Collaboration" src="https://img.shields.io/badge/Collaboration-transparent%20%7C%20iterative%20%7C%20doc-friendly-1b6ac9"></a>
+<a href="#what-i-make"><img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20maps%20%E2%80%A2%20DX&color=7c4dff"></a>
+<a href="#how-i-work"><img alt="Style" src="https://img.shields.io/static/v1?label=Style&message=pragmatic%20%E2%80%A2%20user-first%20%E2%80%A2%20measurable&color=4a9c8c"></a>
+<a href="#collaboration-snapshot"><img alt="Collaboration" src="https://img.shields.io/static/v1?label=Collaboration&message=transparent%20%E2%80%A2%20iterative%20%E2%80%A2%20doc-friendly&color=1b6ac9"></a>
 </p>
 
 | 🚀 Focus | 🧭 Approach | 📌 Outcomes |
