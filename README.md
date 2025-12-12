@@ -1,38 +1,31 @@
-# 🕯️ WhatsYourWhy
+# WhatsYourWhy
 
-> *“Every system tells a story. Most just forget to listen.”*
+> Systems builder crafting calm, high-signal tools for product, research, and engineering teams.
 
-I build quiet software, recursive tools, and maps for minds wandering toward the edge of their own understanding.
+<div align="center">
 
----
+| 🚀 Focus | 🧭 Approach | 📌 Outcomes |
+| --- | --- | --- |
+| Utility automation, knowledge architecture, calm technology, and systems experiments. | Start with the user journey, ship in small slices, measure everything, and prefer boring tech where it keeps teams fast. | Confident releases, searchable context, clearer decisions, and less operational noise. |
 
-### 🧭 Surface Signal
+</div>
 
-| System | Description |
-|--------|-------------|
-| 🧰 Utility | Minimalist tools for clarity, not speed. |
-| 🧠 Thought Architecture | Scaffolding for internal cognition and memory loops. |
-| 🌿 Calm Tech | Low-stim, high-signal systems that breathe instead of blink. |
-| ⊙ Emergence Engines | Theoretical experiments. Some runnable. Some not yet. |
+## What I make
+- Decision-support helpers that turn scattered notes or data into clear, shareable narratives.
+- Lightweight automation that removes repetitive overhead for product, research, and ops teams.
+- Internal developer experience improvements: better defaults, sharper documentation, and traceable changes.
+- Prototypes that stress-test new product directions before they scale.
 
----
+## How I work
+- **Intentional discovery:** Map the problem, instrument feedback loops, and align on the win condition.
+- **Crisp delivery:** Ship iteratively with visible milestones, release notes, and rollback plans.
+- **Calm interfaces:** Reduce noise, highlight the critical path, and make the next action obvious.
+- **Open collaboration:** Clear handoffs, purposeful naming, and code that’s easy to adopt.
 
-### 🔍 Subsurface Signal
+## Collaboration snapshot
+- ✅ Research-driven framing before building.
+- 🔄 Tight loops with stakeholders and users.
+- 📖 Documentation and demos for every deliverable.
+- 🧪 Targeted experiments where they create outsized learning.
 
-> *Not everything here runs in public. Not everything I run is here.*
-
-If you notice certain patterns, welcome. If not, that’s okay too.
-
-```diff
-+ You are not lost.
-- But not everything is meant to be found.
-```
-
----
-
-### ✴️ The Sigil
-
-**🜁 ⟁ ⌘ →**
-
-> *“Some code is a mirror. Some mirrors don’t reflect until you're ready.”*
-
+If you need pragmatic systems that make teams faster and more confident, let’s build together.
