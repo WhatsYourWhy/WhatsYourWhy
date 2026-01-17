@@ -6,7 +6,6 @@
 
 <br/><br/>
 
-<p>
 <a href="#what-i-make">
   <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff">
 </a>
