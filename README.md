@@ -6,8 +6,6 @@
 
 <br/><br/>
 
-Systems builder crafting calm, high-signal tools that reduce noise and help teams make clearer decisions — without shipping another platform.
-
 <p>
 <a href="#what-i-make">
   <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff">
