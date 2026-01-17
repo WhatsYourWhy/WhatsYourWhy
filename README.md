@@ -1,8 +1,22 @@
 # WhatsYourWhy
 
-<div align="center" style="padding: 18px 14px; border: 1px solid #e6e8ec; border-radius: 12px; background: linear-gradient(135deg, #f6f7fb 0%, #ffffff 45%, #f3f7ff 100%);">
+I build small, local-first systems that turn messy information into reusable structure.
 
-<b>Systems builder crafting calm, high-signal tools for product, research, and engineering teams.</b>
+**Systems builder focused on local-first, high-signal tools that reduce noise and improve decision-making.**
+
+I compress notes, transcripts, and operational data into reusable structure so teams can act without wading through noise. I prefer clarity, determinism, and local-first workflows that keep context close and decisions explainable.
+
+**Primary focus**
+- Utility automation
+- Knowledge architecture
+- Calm technology
+- Systems experiments
+
+**What teams get**
+- Confident releases
+- Searchable context
+- Clearer decisions
+- Less operational noise
 
 <p>
 <a href="#what-i-make"><img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20maps%20%E2%80%A2%20DX&color=7c4dff"></a>
@@ -10,35 +24,29 @@
 <a href="#collaboration-snapshot"><img alt="Collaboration" src="https://img.shields.io/static/v1?label=Collaboration&message=transparent%20%E2%80%A2%20iterative%20%E2%80%A2%20doc-friendly&color=1b6ac9"></a>
 </p>
 
-| 🚀 Focus | 🧭 Approach | 📌 Outcomes |
-| --- | --- | --- |
-| Utility automation, knowledge architecture, calm technology, and systems experiments. | Start with the user journey, ship in small slices, measure everything, and prefer boring tech where it keeps teams fast. | Confident releases, searchable context, clearer decisions, and less operational noise. |
-
-</div>
-
 ---
 
 ## What I make
-- Decision-support helpers that turn scattered notes or data into clear, shareable narratives.
+- Document distillers that compress messy notes into reusable structure.
+- Decision-support helpers that turn evidence into clear, shareable narratives.
 - Lightweight automation that removes repetitive overhead for product, research, and ops teams.
-- Internal developer experience improvements: better defaults, sharper documentation, and traceable changes.
-- Prototypes that stress-test new product directions before they scale.
+- DX improvements that sharpen defaults, documentation, and traceability.
 
-## Spotlight: recent project patterns
-- **Narrative intelligence** — aligning product docs, transcripts, and metrics into a single story that decision makers can trust.
-- **Ops calm-down** — alert routing, runbooks, and guardrails that lower noise while keeping response crisp.
-- **Research-to-shipping loop** — workflows that turn insights into tickets, specs, and experiments without losing intent.
+## Project patterns I ship
+- **Information compression** — distill notes, docs, and data into reusable structure with evidence trails.
+- **Operational noise reduction** — tame alerts, handoffs, and status churn so teams act on signal.
+- **Research-to-shipping loops** — move insights into tickets, specs, and experiments without losing intent.
 
 ## How I work
-- **Intentional discovery:** Map the problem, instrument feedback loops, and align on the win condition.
-- **Crisp delivery:** Ship iteratively with visible milestones, release notes, and rollback plans.
-- **Calm interfaces:** Reduce noise, highlight the critical path, and make the next action obvious.
-- **Open collaboration:** Clear handoffs, purposeful naming, and code that’s easy to adopt.
+- Start with intent.
+- Ship in slices.
+- Design for calm.
+- Document as infrastructure.
 
 ## Collaboration snapshot
-- ✅ Research-driven framing before building.
-- 🔄 Tight loops with stakeholders and users.
-- 📖 Documentation and demos for every deliverable.
-- 🧪 Targeted experiments where they create outsized learning.
+- Research-driven framing.
+- Tight loops with stakeholders.
+- Documentation and demos.
+- Targeted experiments for learning.
 
-If you need pragmatic systems that make teams faster and more confident, let’s build together.
+If you need systems that reduce noise, preserve context, and stay out of the way, I’m interested in building them.
