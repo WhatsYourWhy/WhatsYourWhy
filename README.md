@@ -1,8 +1,12 @@
-# Justin Shank
+# <div align="center">Justin Shank</div>
 
 <div align="center" style="padding: 18px 16px; border: 1px solid #e6e8ec; border-radius: 12px; background: linear-gradient(135deg, #f6f7fb 0%, #ffffff 45%, #f3f7ff 100%);">
 
-<b>I build small, local-first systems that turn messy information into reusable structure.</b>
+<b>Founder, Shank Strategy Ops; operational strategy, execution systems, and deterministic decision tooling.</b>
+
+<p>I build calm, high-signal systems for organizations that need to move from insight to execution without chaos. My work focuses on operational reality: risk visibility, bounded decision systems, and tools that hold up under pressure.</p>
+
+<p>This GitHub hosts open-source and research projects that support that work — local-first utilities, deterministic engines, and small, well-documented systems designed to turn messy inputs into auditable outcomes.</p>
 
 <a href="#what-i-make">
   <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff">
