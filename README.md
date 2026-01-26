@@ -1,4 +1,4 @@
-# WhatsYourWhy
+# Justin Shank
 
 <div align="center" style="padding: 18px 16px; border: 1px solid #e6e8ec; border-radius: 12px; background: linear-gradient(135deg, #f6f7fb 0%, #ffffff 45%, #f3f7ff 100%);">
 
