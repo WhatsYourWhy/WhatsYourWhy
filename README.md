@@ -2,11 +2,11 @@
 
 <div align="center" style="padding: 18px 16px; border: 1px solid #e6e8ec; border-radius: 12px; background: linear-gradient(135deg, #f6f7fb 0%, #ffffff 45%, #f3f7ff 100%);">
 
-<b>Founder, Shank Strategy Ops; operational strategy, execution systems, and deterministic decision tooling.</b>
+<b>Founder, Shank Strategy Ops — operational strategy, execution systems, and deterministic decision tooling.</b>
 
-<p>I build calm, high-signal systems for organizations that need to move from insight to execution without chaos. My work focuses on operational reality: risk visibility, bounded decision systems, and tools that hold up under pressure.</p>
+<p>I build calm, high-signal systems for organizations that need to move from insight to execution without chaos. My work centers on operational reality: risk visibility, bounded decision systems, and tools that hold up under pressure.</p>
 
-<p>This GitHub hosts open-source and research projects that support that work — local-first utilities, deterministic engines, and small, well-documented systems designed to turn messy inputs into auditable outcomes.</p>
+<p>This GitHub hosts open-source and research projects that support that work: local-first utilities, deterministic engines, and small, well-documented systems designed to turn messy inputs into auditable outcomes.</p>
 
 <a href="#what-i-make">
   <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff">
@@ -17,7 +17,6 @@
 <a href="#collaboration-snapshot">
   <img alt="Collaboration" src="https://img.shields.io/static/v1?label=Collaboration&message=transparent%20%E2%80%A2%20iterative%20%E2%80%A2%20doc-friendly&color=1b6ac9">
 </a>
-</p>
 
 | 🚀 Focus | 🧭 Approach | 📌 Outcomes |
 | --- | --- | --- |
@@ -31,21 +30,9 @@
 
 - **Document distillers** that compress messy notes, Markdown, and transcripts into reusable structure.
 - **Decision-support helpers** that turn evidence into clear, shareable narratives.
-- **Lightweight automation** that removes repetitive overhead for product, research, and ops teams.
+- **Operational noise reduction** that tames alerts, handoffs, and status churn so teams act on signal instead of volume.
+- **Research-to-shipping loops** that move insights into tickets, specs, and experiments without losing intent.
 - **DX improvements** that sharpen defaults, documentation, and traceability.
-
----
-
-## Project patterns I ship
-
-- **Information compression**  
-  Distilling notes, docs, and operational data into structured outputs with evidence trails.
-
-- **Operational noise reduction**  
-  Taming alerts, handoffs, and status churn so teams act on signal instead of volume.
-
-- **Research-to-shipping loops**  
-  Moving insights into tickets, specs, and experiments without losing intent.
 
 ---
 
