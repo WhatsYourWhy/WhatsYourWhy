@@ -1,57 +1,86 @@
-# <div align="center">Justin Shank</div>
+<div align="center">
+  <h1>Justin Shank</h1>
+  <p><strong>Operational systems. Deterministic decision tooling. Infrastructure that holds.</strong></p>
 
-<div align="center" style="padding: 18px 16px; border: 1px solid #e6e8ec; border-radius: 12px; background: linear-gradient(135deg, #f6f7fb 0%, #ffffff 45%, #f3f7ff 100%);">
+  <p>I build systems that are meant to work — not impress. My background is operational: I’ve led teams, owned outcomes, and seen what breaks when decisions are rushed or tools are built for demos instead of reality. That experience shapes everything here.</p>
 
-<b>Founder, Shank Strategy Ops — operational strategy, execution systems, and deterministic decision tooling.</b>
+  <p>This GitHub hosts practical systems and research projects focused on turning noisy inputs into structured decisions, reducing operational friction, preserving context across handoffs, and making reasoning visible and auditable.</p>
 
-<p>I build calm, high-signal systems for organizations that need to move from insight to execution without chaos. My work centers on operational reality: risk visibility, bounded decision systems, and tools that hold up under pressure.</p>
-
-<p>This GitHub hosts open-source and research projects that support that work: local-first utilities, deterministic engines, and small, well-documented systems designed to turn messy inputs into auditable outcomes.</p>
-
-<a href="#what-i-make">
-  <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff">
-</a>
-<a href="#how-i-work">
-  <img alt="Style" src="https://img.shields.io/static/v1?label=Style&message=pragmatic%20%E2%80%A2%20calm%20%E2%80%A2%20deterministic&color=4a9c8c">
-</a>
-<a href="#collaboration-snapshot">
-  <img alt="Collaboration" src="https://img.shields.io/static/v1?label=Collaboration&message=transparent%20%E2%80%A2%20iterative%20%E2%80%A2%20doc-friendly&color=1b6ac9">
-</a>
-
-| 🚀 Focus | 🧭 Approach | 📌 Outcomes |
-| --- | --- | --- |
-| Utility automation, knowledge architecture, calm technology, and systems experiments. | Start with intent, ship in small slices, measure what matters, prefer boring tech where it keeps teams fast. | Clearer decisions, searchable context, confident releases, and less operational noise. |
-
+  <a href="#what-i-make">
+    <img alt="Focus" src="https://img.shields.io/static/v1?label=Focus&message=automation%20%E2%80%A2%20knowledge%20architecture%20%E2%80%A2%20DX&color=7c4dff" />
+  </a>
+  <a href="#how-i-work">
+    <img alt="Style" src="https://img.shields.io/static/v1?label=Style&message=pragmatic%20%E2%80%A2%20calm%20%E2%80%A2%20deterministic&color=4a9c8c" />
+  </a>
+  <a href="#collaboration-snapshot">
+    <img alt="Collaboration" src="https://img.shields.io/static/v1?label=Collaboration&message=transparent%20%E2%80%A2%20iterative%20%E2%80%A2%20doc-friendly&color=1b6ac9" />
+  </a>
 </div>
 
 ---
 
 ## What I make
 
-- **Document distillers** that compress messy notes, Markdown, and transcripts into reusable structure.
-- **Decision-support helpers** that turn evidence into clear, shareable narratives.
-- **Operational noise reduction** that tames alerts, handoffs, and status churn so teams act on signal instead of volume.
-- **Research-to-shipping loops** that move insights into tickets, specs, and experiments without losing intent.
-- **DX improvements** that sharpen defaults, documentation, and traceability.
+- Document distillers that compress messy notes, Markdown, and transcripts into reusable structure.  
+- Decision-support helpers that turn evidence into clear, shareable narratives.  
+- Operational noise reduction that tames alerts, handoffs, and status churn so teams act on signal instead of volume.  
+- Research-to-shipping loops that move insights into tickets, specs, and experiments without losing intent.  
+- DX improvements that sharpen defaults, documentation, and traceability.
 
 ---
 
-## How I work
+## Selected work
 
-- **Intent first** — define the win condition and failure modes before building.
-- **Slice delivery** — ship iteratively with visible milestones and rollback paths.
-- **Design for calm** — reduce cognitive load and make the next action obvious.
-- **Docs as infrastructure** — names, context, and decisions that survive handoff.
+- [Hardstop](https://github.com/WhatsYourWhy/hardstop) — deterministic supply-chain risk engine built around recall, explainability, and reason-coded outputs.  
+- [Determinant](https://github.com/WhatsYourWhy/determinant) — structured runtime for executing programs with auditable decision paths.  
+- [The Temporal Gradient](https://github.com/WhatsYourWhy/temporal-gradient) — bounded time and memory modeling framework for reliable simulation and replay.  
+- [Alert-Axolotl-Evo](https://github.com/WhatsYourWhy/alert-axolotl-evo) — evolutionary alert logic experiment to surface robust signal patterns.  
+- [Strainer CLI](https://github.com/WhatsYourWhy/strainer-cli) — local-first text → structure conversion for cleaner operational inputs.  
+- [Cognitive Glow](https://github.com/WhatsYourWhy/cognitive-glow) — knowledge visibility tooling for Obsidian to make reasoning and context discoverable.
+
+(If a link above is broken, replace it with the exact repo path — I can update these for you.)
+
+---
+
+## How I build
+
+- Define the win condition before writing code.  
+- Design for failure modes, not just happy paths.  
+- Prefer clarity over cleverness.  
+- Ship in small, measurable slices.  
+- Treat documentation as part of the system.
+
+If a system can’t be inspected, versioned, and explained, it doesn’t ship.
 
 ---
 
 ## Collaboration snapshot
 
-- Research-driven framing before code.
-- Tight feedback loops with stakeholders and users.
-- Documentation and demos for every deliverable.
+- Research-driven framing before code.  
+- Tight feedback loops with stakeholders and users.  
+- Documentation and demos for every deliverable.  
 - Targeted experiments where learning is asymmetric.
+
+If you’re building infrastructure that must hold under scrutiny, I’m interested. Reach out.
 
 ---
 
-If you need systems that reduce noise, preserve context, and stay out of the way, I’m interested in building them.
+## Work & writing
+
+- Founder — Shank Strategy Ops — Operational strategy, execution systems, deterministic decision tooling.  
+  https://shankstrategy.com
+
+- Substack — Long-form essays on systems, pressure, and structured thinking.  
+  https://whatsyourwhy85.substack.com
+
+- X (Twitter) — Signal, systems, execution thinking.  
+  https://x.com/whatsyourwhy
+
+- LinkedIn — https://www.linkedin.com/in/justin-shank
+
+---
+
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhatsYourWhy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatsYourWhy&layout=compact&theme=tokyonight)
+
+---
