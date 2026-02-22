@@ -44,14 +44,14 @@ I ship practical systems and structured research for:
 
 ## Selected Work
 
-| Project | What it does |
-|---|---|
-| [**Hardstop**](https://github.com/WhatsYourWhy/hardstop) | Deterministic supply-chain risk engine with recall, explainability, and reason-coded outputs. |
-| [**Determinant**](https://github.com/WhatsYourWhy/determinant) | Structured runtime for executing programs with auditable decision paths. |
-| [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) | Bounded time and memory modeling framework for reliable simulation and replay. |
-| [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo) | Evolutionary alert logic experiment to surface robust signal patterns. |
-| [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli) | Local-first text → structure conversion for cleaner operational inputs. |
-| [**Cognitive Glow**](https://github.com/WhatsYourWhy/cognitive-glow) | Knowledge visibility tooling for Obsidian to make reasoning and context discoverable. |
+| Project | What it does | Status | Maturity | Primary focus |
+|---|---|---|---|---|
+| [**Hardstop**](https://github.com/WhatsYourWhy/hardstop) | Deterministic supply-chain risk engine with recall, explainability, and reason-coded outputs. | Active | Production-oriented | Ops tooling |
+| [**Determinant**](https://github.com/WhatsYourWhy/determinant) | Structured runtime for executing programs with auditable decision paths. | Maintained | Beta | Knowledge systems |
+| [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) | Bounded time and memory modeling framework for reliable simulation and replay. | Active | Beta | Simulation |
+| [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo) | Evolutionary alert logic experiment to surface robust signal patterns. | Experimental | Prototype | Simulation |
+| [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli) | Local-first text → structure conversion for cleaner operational inputs. | Maintained | Production-oriented | Ops tooling |
+| [**Cognitive Glow**](https://github.com/WhatsYourWhy/cognitive-glow) | Knowledge visibility tooling for Obsidian to make reasoning and context discoverable. | Active | Beta | Knowledge systems |
 
 Some projects are practical utilities.
 Some are structured experiments.
