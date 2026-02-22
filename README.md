@@ -34,6 +34,12 @@ I ship practical systems and structured research for:
 
 > If a system can’t be inspected, versioned, and explained, it doesn’t ship.
 
+## Start Here
+
+- If you want a production-style system for real operational pressure, start with [**Hardstop**](https://github.com/WhatsYourWhy/hardstop).
+- If you want a framework/research build for structured modeling and replay, start with [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) or [**Determinant**](https://github.com/WhatsYourWhy/determinant).
+- If you want utility/tooling you can use immediately, start with [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli).
+
 ---
 
 ## Selected Work
