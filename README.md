@@ -23,6 +23,13 @@
 
 ---
 
+## Contents
+
+- [What this GitHub is for](#what-this-github-is-for)
+- [Selected Work](#selected-work)
+- [How I Build](#how-i-build)
+- [Work & Writing](#work--writing)
+
 ## What this GitHub is for
 
 I ship practical systems and structured research for:
