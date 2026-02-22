@@ -93,7 +93,13 @@ All are intentional.
 - **LinkedIn**
   https://www.linkedin.com/in/justin-shank
 
-If you're building infrastructure that needs to hold under scrutiny, I’m interested.
+Ways to work together:
+
+- Advisory / strategy sessions
+- System design collaboration
+- Tooling implementation or reviews
+
+Preferred contact: LinkedIn DM (typically responds within 1–2 business days).
 
 ---
 
