@@ -84,5 +84,5 @@ If you're building infrastructure that needs to hold under scrutiny, I’m inter
 
 ---
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhatsYourWhy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatsYourWhy&layout=compact&theme=tokyonight)
+For a live activity snapshot, see the pinned repositories and contribution graph on the profile page:
+https://github.com/WhatsYourWhy
