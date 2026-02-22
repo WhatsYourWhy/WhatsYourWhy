@@ -26,9 +26,13 @@
 ## Contents
 
 - [What this GitHub is for](#what-this-github-is-for)
+- [Start Here](#start-here)
 - [Selected Work](#selected-work)
 - [How I Build](#how-i-build)
+- [Evidence of Impact](#evidence-of-impact)
 - [Work & Writing](#work--writing)
+
+---
 
 ## What this GitHub is for
 
@@ -41,11 +45,13 @@ I ship practical systems and structured research for:
 
 > If a system can’t be inspected, versioned, and explained, it doesn’t ship.
 
+---
+
 ## Start Here
 
-- If you want a production-style system for real operational pressure, start with [**Hardstop**](https://github.com/WhatsYourWhy/hardstop).
-- If you want a framework/research build for structured modeling and replay, start with [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) or [**Determinant**](https://github.com/WhatsYourWhy/determinant).
-- If you want utility/tooling you can use immediately, start with [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli).
+- If you want deterministic decision infrastructure with explainable outputs, start with [**Hardstop**](https://github.com/WhatsYourWhy/hardstop).
+- If you want a framework for auditable execution and replay, start with [**Determinant**](https://github.com/WhatsYourWhy/determinant) and [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient).
+- If you want practical local-first utilities for messy real-world inputs, start with [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli).
 
 ---
 
@@ -54,11 +60,11 @@ I ship practical systems and structured research for:
 | Project | What it does | Status | Maturity | Primary focus |
 |---|---|---|---|---|
 | [**Hardstop**](https://github.com/WhatsYourWhy/hardstop) | Deterministic supply-chain risk engine with recall, explainability, and reason-coded outputs. | Active | Production-oriented | Ops tooling |
-| [**Determinant**](https://github.com/WhatsYourWhy/determinant) | Structured runtime for executing programs with auditable decision paths. | Maintained | Beta | Knowledge systems |
-| [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) | Bounded time and memory modeling framework for reliable simulation and replay. | Active | Beta | Simulation |
-| [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo) | Evolutionary alert logic experiment to surface robust signal patterns. | Experimental | Prototype | Simulation |
-| [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli) | Local-first text → structure conversion for cleaner operational inputs. | Maintained | Production-oriented | Ops tooling |
-| [**Cognitive Glow**](https://github.com/WhatsYourWhy/cognitive-glow) | Knowledge visibility tooling for Obsidian to make reasoning and context discoverable. | Active | Beta | Knowledge systems |
+| [**Determinant**](https://github.com/WhatsYourWhy/determinant) | Structured runtime for executing programs with auditable decision paths. | Active | Beta | Runtime systems |
+| [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) | Bounded time and memory modeling framework for reliable simulation and replay. | Experimental | Prototype | Simulation |
+| [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo) | Evolutionary alert logic experiment to surface robust signal patterns. | Experimental | Prototype | Signal discovery |
+| [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli) | Local-first text → structure conversion for cleaner operational inputs. | Active | Beta | Data shaping |
+| [**Cognitive Glow**](https://github.com/WhatsYourWhy/cognitive-glow) | Knowledge visibility tooling for Obsidian to make reasoning and context discoverable. | Maintained | Beta | Knowledge systems |
 
 Some projects are practical utilities.
 Some are structured experiments.
@@ -74,12 +80,14 @@ All are intentional.
 - Ship in small, measurable slices.
 - Treat documentation as part of the system.
 
+---
+
 ## Evidence of Impact
 
-- **10+ repositories** actively maintained across operations tooling, simulation, and knowledge systems.
-- **Multiple production-oriented systems** deployed in real workflows (risk engines, decision tooling, and structured input pipelines).
-- **Multi-team workflows** supported with inspectable outputs and deterministic decision paths to reduce ambiguity in handoffs.
-- **Typical outcomes** include faster decision cycles, lower rework from clearer reasoning traces, and measurable reductions in manual triage effort.
+- Public portfolio of operational systems and structured experiments built in the open.
+- Repositories prioritize inspectable logic, explicit assumptions, and auditable outputs.
+- Tooling is designed for pressure-tested workflows where handoffs and traceability matter.
+- Writing and project docs focus on decision quality, reproducibility, and execution discipline.
 
 ---
 
@@ -100,13 +108,13 @@ All are intentional.
 - **LinkedIn**
   https://www.linkedin.com/in/justin-shank
 
-Ways to work together:
+### Ways to work together
 
-- Advisory / strategy sessions
-- System design collaboration
-- Tooling implementation or reviews
+- Advisory sessions on strategy-to-execution operating systems.
+- System design collaboration for deterministic, auditable workflows.
+- Tooling reviews for reliability, traceability, and decision quality.
 
-Preferred contact: LinkedIn DM (typically responds within 1–2 business days).
+Best channel: LinkedIn DM or email via https://shankstrategy.com. Typical response window: 2 business days.
 
 ---
 
