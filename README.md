@@ -67,6 +67,13 @@ All are intentional.
 - Ship in small, measurable slices.
 - Treat documentation as part of the system.
 
+## Evidence of Impact
+
+- **10+ repositories** actively maintained across operations tooling, simulation, and knowledge systems.
+- **Multiple production-oriented systems** deployed in real workflows (risk engines, decision tooling, and structured input pipelines).
+- **Multi-team workflows** supported with inspectable outputs and deterministic decision paths to reduce ambiguity in handoffs.
+- **Typical outcomes** include faster decision cycles, lower rework from clearer reasoning traces, and measurable reductions in manual triage effort.
+
 ---
 
 ## Work & Writing
