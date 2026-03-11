@@ -26,49 +26,109 @@
 ## Contents
 
 - [What this GitHub is for](#what-this-github-is-for)
-- [Start Here](#start-here)
-- [Selected Work](#selected-work)
+- [Repository Architecture: Three Interconnected Stacks](#repository-architecture-three-interconnected-stacks)
+- [How to Navigate This Profile](#how-to-navigate-this-profile)
 - [How I Build](#how-i-build)
-- [Evidence of Impact](#evidence-of-impact)
 - [Work & Writing](#work--writing)
 
 ---
 
 ## What this GitHub is for
 
-I ship practical systems and structured research for:
+This profile is organized around three practical outcomes:
 
-- Turning noisy inputs into structured decisions.
-- Reducing operational friction.
-- Preserving context across handoffs.
-- Making reasoning visible and auditable.
+- **Enterprise reliability:** deterministic systems for operational risk and supply chain decisions.
+- **Personal execution:** local-first tools for neurodivergent-friendly productivity and knowledge management.
+- **Research depth:** cognitive architecture and AI safety experiments that inform the design of production systems.
 
 > If a system can’t be inspected, versioned, and explained, it doesn’t ship.
 
 ---
 
-## Start Here
+## Repository Architecture: Three Interconnected Stacks
 
-- If you want deterministic decision infrastructure with explainable outputs, start with [**Hardstop**](https://github.com/WhatsYourWhy/hardstop).
-- If you want a framework for auditable execution and replay, start with [**Determinant**](https://github.com/WhatsYourWhy/determinant) and [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient).
-- If you want practical local-first utilities for messy real-world inputs, start with [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli).
+These repositories are not isolated demos. They form a connected portfolio.
+
+### 1) Supply Chain & Operational Risk Stack (Enterprise Showcase)
+
+Built for enterprise operators who need traceable decisions, not black-box outputs.
+
+- [**Hardstop**](https://github.com/WhatsYourWhy/hardstop)
+  Deterministic supply chain risk decision engine. Monitors external inputs and generates actionable alerts.
+- [**Lumina-Pro**](https://github.com/WhatsYourWhy/lumina-pro)
+  Supply chain UI layer that visualizes and operationalizes backend risk signals.
+- [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo)
+  Deterministic genetic programming system for anomaly detection and time-series signal analysis.
+
+**How these work together**
+
+1. **Alert-Axolotl-Evo** detects emerging anomalies from operational metrics.
+2. **Hardstop** turns signals and external events into explainable, reason-coded risk decisions.
+3. **Lumina-Pro** delivers those decisions through a usable frontend dashboard for action.
+
+**Positioning:** This is the end-to-end suite to feature on [Shank Strategy Ops](https://shankstrategy.com): anomaly detection → deterministic risk logic → operational visualization.
 
 ---
 
-## Selected Work
+### 2) Neurodivergence & Knowledge Management Stack (Productivity Showcase)
 
-| Project | What it does | Status | Maturity | Primary focus |
-|---|---|---|---|---|
-| [**Hardstop**](https://github.com/WhatsYourWhy/hardstop) | Deterministic supply-chain risk engine with recall, explainability, and reason-coded outputs. | Active | Production-oriented | Ops tooling |
-| [**Determinant**](https://github.com/WhatsYourWhy/determinant) | Structured runtime for executing programs with auditable decision paths. | Active | Beta | Runtime systems |
-| [**The Temporal Gradient**](https://github.com/WhatsYourWhy/temporal-gradient) | Bounded time and memory modeling framework for reliable simulation and replay. | Experimental | Prototype | Simulation |
-| [**Alert-Axolotl-Evo**](https://github.com/WhatsYourWhy/alert-axolotl-evo) | Evolutionary alert logic experiment to surface robust signal patterns. | Experimental | Prototype | Signal discovery |
-| [**Strainer CLI**](https://github.com/WhatsYourWhy/strainer-cli) | Local-first text → structure conversion for cleaner operational inputs. | Active | Beta | Data shaping |
-| [**Cognitive Glow**](https://github.com/WhatsYourWhy/cognitive-glow) | Knowledge visibility tooling for Obsidian to make reasoning and context discoverable. | Maintained | Beta | Knowledge systems |
+A local-first productivity ecosystem designed for real-world cognitive constraints.
 
-Some projects are practical utilities.
-Some are structured experiments.
-All are intentional.
+- [**dragons-and-distractions-site**](https://github.com/WhatsYourWhy/dragons-and-distractions-site)
+  ADHD/executive-function toolkit framed through mythic metaphors and cognitive challenge design.
+- [**journey-log**](https://github.com/WhatsYourWhy/journey-log)
+  Customizable task system with reflective prompts and practical execution structure.
+- [**strainer-cli**](https://github.com/WhatsYourWhy/strainer-cli)
+  Offline CLI for extracting summaries and metrics from `.txt`/`.md` sources.
+- [**obsidian-spotify-link**](https://github.com/WhatsYourWhy/obsidian-spotify-link)
+  Bridge tool that syncs listening context into Obsidian note workflows.
+
+**How these work together**
+
+1. **strainer-cli** and **obsidian-spotify-link** collect and enrich context from local systems.
+2. **journey-log** turns context into executable task flow.
+3. **dragons-and-distractions-site** supports psychological framing and adherence.
+
+**Positioning:** Present as a **Neurodivergent Developer Toolkit**: local-first capture, structured reflection, and practical follow-through.
+
+---
+
+### 3) Cognitive & AI Safety Stack (Research Showcase)
+
+Research-forward repositories focused on system safety, memory, and cognition.
+
+- [**TopoGuard**](https://github.com/WhatsYourWhy/topoguard)
+  Topology-gated refusal layer with pluggable backends.
+- [**The-Temporal-Gradient**](https://github.com/WhatsYourWhy/temporal-gradient)
+  Internal time accumulator based on salience load and memory-strength reconsolidation.
+- [**information-causality-rg-note**](https://github.com/WhatsYourWhy/information-causality-rg-note)
+  Theoretical notes on information causality and renormalization group flows.
+
+**How these work together**
+
+1. **The-Temporal-Gradient** models bounded memory/time behavior.
+2. **TopoGuard** constrains unsafe outputs with explicit refusal logic.
+3. **information-causality-rg-note** documents the theoretical backbone.
+
+**Positioning:** This is the AI/cognitive lab: symbolic safety controls, memory modeling, and theoretical rigor.
+
+---
+
+## How to Navigate This Profile
+
+If you are visiting for:
+
+- **Consulting / enterprise tooling:** start with the **Supply Chain & Operational Risk Stack**.
+- **Personal productivity systems:** start with the **Neurodivergence & Knowledge Management Stack**.
+- **Research and AI safety:** start with the **Cognitive & AI Safety Stack**.
+
+### Signal words that define this portfolio
+
+- **Deterministic**
+- **Explainable**
+- **Auditable**
+- **Offline / local-first**
+- **Operationally reliable**
 
 ---
 
@@ -82,41 +142,24 @@ All are intentional.
 
 ---
 
-## Evidence of Impact
-
-- Public portfolio of operational systems and structured experiments built in the open.
-- Repositories prioritize inspectable logic, explicit assumptions, and auditable outputs.
-- Tooling is designed for pressure-tested workflows where handoffs and traceability matter.
-- Writing and project docs focus on decision quality, reproducibility, and execution discipline.
-
----
-
 ## Work & Writing
 
-- **Founder — Shank Strategy Ops**
-  Operational strategy, execution systems, deterministic decision tooling.
+- **Founder — Shank Strategy Ops**  
+  Operational strategy, execution systems, deterministic decision tooling.  
   https://shankstrategy.com
 
-- **X (Twitter)**
-  Signal, systems, execution thinking.
+- **X (Twitter)**  
+  Signal, systems, execution thinking.  
   https://x.com/whatsyourwhy
 
-- **Substack**
-  Long-form essays on systems, pressure, and structured thinking.
+- **Substack**  
+  Long-form essays on systems, pressure, and structured thinking.  
   https://whatsyourwhy85.substack.com
 
-- **LinkedIn**
+- **LinkedIn**  
   https://www.linkedin.com/in/justin-shank
-
-### Ways to work together
-
-- Advisory sessions on strategy-to-execution operating systems.
-- System design collaboration for deterministic, auditable workflows.
-- Tooling reviews for reliability, traceability, and decision quality.
-
-Best channel: LinkedIn DM or email via https://shankstrategy.com. Typical response window: 2 business days.
 
 ---
 
-For a live activity snapshot, see the pinned repositories and contribution graph on the profile page:
+For a live activity snapshot, see pinned repositories and the contribution graph on the profile page:  
 https://github.com/WhatsYourWhy
