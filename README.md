@@ -164,6 +164,7 @@ If you are visiting for:
 For a live activity snapshot, see pinned repositories and the contribution graph on the profile page:  
 https://github.com/WhatsYourWhy
 
+```
 ██╗    ██╗██╗  ██╗██╗   ██╗
 ██║    ██║██║  ██║╚██╗ ██╔╝
 ██║ █╗ ██║███████║ ╚████╔╝ 
@@ -172,3 +173,4 @@ https://github.com/WhatsYourWhy
  ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
 
       WHAT'S YOUR WHY
+```
