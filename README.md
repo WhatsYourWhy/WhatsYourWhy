@@ -2,164 +2,221 @@
 
 # Justin Shank
 
-```text
-██╗    ██╗██╗  ██╗██╗   ██╗
-██║    ██║██║  ██║╚██╗ ██╔╝
-██║ █╗ ██║███████║ ╚████╔╝
-██║███╗██║██╔══██║  ╚██╔╝
-╚███╔███╔╝██║  ██║   ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝
+**Operational systems. Deterministic tooling. Research with teeth.**
 
-      WHAT'S YOUR WHY
-```
+I build tools for operators, researchers, and people trying to think more clearly under pressure.
 
-𝑊 ℎ 𝑎 𝑡 𝑠 𝑌 𝑜 𝑢 𝑟 𝑊 ℎ 𝑦  
-**WhatsYourWhy**
-
-Here be monsters & analytics. I build deterministic tools for messy problems—whether that’s supply chain resilience, ADHD ritual cards, or gamma-ray bursts.
-Each project lives in its own world, but they all share a few signals: **offline-first**, **explainable**, **operationally-reliable**, and always pushing back on black-box hype.
-If those resonate, grab a torch and explore.
-
-<img src="https://raw.githubusercontent.com/WhatsYourWhy/WhatsYourWhy/main/assets/banner_monster.gif" alt="Banner showing a dragon juggling supply chains and notebooks" width="100%"/>
+[![Website](https://img.shields.io/badge/Website-shankstrategy.com-black?style=flat-square)](https://shankstrategy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Justin_Shank-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/justin-shank)
+[![Substack](https://img.shields.io/badge/Substack-The_Edge_Explored-orange?style=flat-square&logo=substack)](https://whatsyourwhy85.substack.com)
 
 </div>
 
-## 🌐 Navigation
+---
 
-| Stack | Who it helps | Core repos |
+```
+> whoami
+  Justin Shank — operator, researcher, builder of deterministic things
+
+> build --philosophy
+  determinism over vibes
+  traceability over black-box output
+  local-first control over forced cloud dependence
+  systems that fail loudly, not silently
+
+> open --best-work
+  Hardstop / Dragons & Distractions / The Temporal Gradient / GRBToolkit
+```
+
+---
+
+## Choose your path
+
+| I'm here for... | Start here |
+|---|---|
+| 🏭 **Operations** — risk, execution, auditable systems | [Hardstop](#hardstop) · [Alert-Axolotl-Evo](#alert-axolotl-evo) · [Shank Strategy Ops](#work-with-me) |
+| 🧠 **Neurodivergence** — ADHD tools, knowledge, humane interfaces | [Dragons & Distractions](#dragons--distractions) · [Cognitive Glow](#cognitive-glow) · [Psi-Loop](#psi-loop) |
+| 🔬 **Research** — cognitive architecture, AI safety, signal processing | [The Temporal Gradient](#the-temporal-gradient) · [TopoGuard](#topoguard) · [GRBToolkit](#grbtoolkit) |
+| 🌀 **Artifacts** — intentional experiments and liminal things | [Zero Terminal](#zero-terminal) · [Thresholds](#thresholds) |
+| ✍️ **Writing** — AI, complexity, the systems underneath | [The Edge Explored →](https://whatsyourwhy85.substack.com) |
+
+---
+
+## Design doctrine
+
+These aren't constraints imposed by clients or frameworks. They're load-bearing.
+
+- **Deterministic** — given the same inputs, same outputs. Always. No hidden heuristics.
+- **Auditable** — if a tool fires an alert or makes a decision, you can trace exactly why. Supply chains collapse when nobody knows.
+- **Local-first** — your data lives on your machine. No subscription, no vendor to go dark, no surprises at 3am.
+- **Loudly broken** — tools should fail with exit codes, not silently succeed at nothing.
+
+---
+
+## Selected systems
+
+A few projects that best represent how I think and build:
+
+<p align="center">
+<a href="https://github.com/WhatsYourWhy/Hardstop"><b>Hardstop</b></a> ·
+<a href="https://github.com/WhatsYourWhy/dragons-and-distractions-site"><b>Dragons & Distractions</b></a> ·
+<a href="https://github.com/WhatsYourWhy/The-Temporal-Gradient"><b>The Temporal Gradient</b></a> ·
+<a href="https://github.com/WhatsYourWhy/GRBToolkit"><b>GRBToolkit</b></a> ·
+<a href="https://github.com/WhatsYourWhy/TopoGuard"><b>TopoGuard</b></a>
+</p>
+
+---
+
+## Projects
+
+### 🏭 Operations & Risk
+
+#### [Hardstop](https://github.com/WhatsYourWhy/Hardstop)
+Deterministic supply-chain risk engine for explainable alerts and operational monitoring.  
+**Why it matters:** turns external events (news, government data) into traceable, reason-coded risk decisions linked to your internal network — facilities, shipments, lanes.  
+**Best for:** ops leaders, supply chain, resilience teams  
+`deterministic` `local-first` `auditable` `production-shaped`
+
+#### [Alert-Axolotl-Evo](https://github.com/WhatsYourWhy/Alert-Axolotl-Evo)
+Genetic programming for anomaly detection. Evolves explicit logic trees under economic constraints.  
+**Why it matters:** fitness metrics align with your actual cost of false positives — not a generic accuracy score. Self-evaluation routines return exit codes for CI pipelines.  
+**Best for:** ops automation, anomaly detection, interpretable ML  
+`deterministic` `auditable` `interpretable` `production-shaped`
+
+#### [Lumina-Pro](https://github.com/WhatsYourWhy/Lumina-Pro)
+AI brand-studio workspace combining market analysis, generative design, and supply-chain monitoring.  
+React 19 + Tailwind frontend, Express/Supabase backend. PDF reports, offline-capable, integrated tests.  
+`active prototype`
+
+---
+
+### 🧠 Neurodivergence & Knowledge Management
+
+#### [Dragons & Distractions](https://github.com/WhatsYourWhy/dragons-and-distractions-site)
+Monster-themed ADHD support. Printable ritual cards, metadata scripts, and a companion [card preview repo](https://github.com/WhatsYourWhy/dragons-and-distractions-card-preview).  
+**Why it matters:** humane tools for people whose brains don't organize like spreadsheets.  
+`production-shaped` `local-first`
+
+#### [Cognitive Glow](https://github.com/WhatsYourWhy/Cognitive-Glow)
+Obsidian plugin. Tracks note openings, computes a glow score (recency + frequency), surfaces top notes in a sidebar.  
+**Why it matters:** your best ideas are usually buried — this makes them float.  
+Tunable decay rates, focus mode. `active prototype`
+
+#### [Psi-Loop](https://github.com/WhatsYourWhy/psi-loop)
+Retrieval ranking library that prefers useful, non-redundant context. Ranks candidates by value relative to goal × novelty relative to what you already have.  
+Pluggable embedders, benchmark scripts vs. similarity-only baselines. `research notebook`
+
+#### [Strainer-CLI](https://github.com/WhatsYourWhy/strainer-cli)
+Offline summarisation for `.txt` and `.md` files. Key sentences, tags, metrics, evidence anchors.  
+Fast (keyword) or Smart (embedding) mode. No server, no API key. `local-first` `production-shaped`
+
+#### [Journey-Log](https://github.com/WhatsYourWhy/journey-log)
+Browser-local checklist with categories, moods, priorities, quotes, backup/restore, bulk undo.  
+Zero server dependency. `local-first`
+
+#### [Obsidian Spotify Link](https://github.com/WhatsYourWhy/obsidian-spotify-link)
+Inserts currently playing track into Obsidian notes. Daily history, custom templates.
+
+#### [Obsidian Releases Mirror](https://github.com/WhatsYourWhy/obsidian-releases)
+Offline packaging and deterministic dependency management for the Obsidian plugin/theme registry.
+
+---
+
+### 🔬 Cognitive Architecture & AI Safety
+
+#### [The Temporal Gradient](https://github.com/WhatsYourWhy/The-Temporal-Gradient)
+Research on time-weighted attention and memory consolidation for AI agents.  
+**Why it matters:** explores what it means for an agent to have a genuine sense of recency — not a flat context window but a signal that decays meaningfully.  
+Interactive experiments on signal decay, retrieval order, forgetting curves. `research notebook`
+
+#### [TopoGuard](https://github.com/WhatsYourWhy/TopoGuard)
+Formal verification for prompt injection detection. Models state transitions topologically, proves safety properties.  
+**Why it matters:** "we tested it and it seemed fine" is not a safety argument. `active prototype`
+
+#### [Information-Causality Note](https://github.com/WhatsYourWhy/information-causality-rg-note)
+Working paper on information-theoretic causality for AI systems. Proofs, definitions, open questions. `research notebook`
+
+---
+
+### 📡 Bio & Signal Processing
+
+#### [GRBToolkit](https://github.com/WhatsYourWhy/GRBToolkit)
+Modular analysis suite for gamma-ray burst light curves.  
+Supports synthetic models (QPIX, FRED), real Fermi data, Bayesian block sweeps, Wavelet Z (WWZ) computation, AIC model comparison.  
+**Why it matters:** reproducibility-first — scripts produce CSVs and figures, notebooks capture full analyses, citation guidelines included.  
+`deterministic` `research notebook`
+
+#### [Biological-Data-OS](https://github.com/WhatsYourWhy/Biological-Data-OS)
+FastAPI/SQLAlchemy reference implementation for deterministic biological data ingestion, semantic resolution, and lineage-backed trust workflows.  
+Every ingestion step logged. Every canonical record traceable. REST routes for ingestion, sources, canonical records, semantic assertions, review, lineage, workflows.  
+`deterministic` `auditable` `production-shaped`
+
+---
+
+### 🌀 Artifact layer
+
+<details>
+<summary><b>Not every project here is a product. Some are probes, interfaces, or constructed environments.</b></summary>
+<br>
+
+#### [Zero Terminal](https://github.com/WhatsYourWhy/Zero-Terminal)
+A terminal-themed personal website where you navigate by typing commands. Virtual file system, CRT effects, 30 commands mapping to posts, projects, and life statuses. Vanilla JS + Vite, deployable on Vercel.
+
+#### [Thresholds](https://github.com/WhatsYourWhy/Thresholds)
+A digital doorway disguised as a repository. Portal page, generative sigils, a manifest of states, hidden base64 keys. For people who like liminal spaces and cryptic YAML. The mood is as intentional as the code.
+
+#### [Seralyth Menu](https://github.com/WhatsYourWhy/Seralyth-Menu)
+Open-source mod menu for Gorilla Tag (VR). Forked to champion community modding and keep the GPL chain intact.
+
+</details>
+
+---
+
+### 🏢 Business & Web
+
+#### [Shank Strategy Ops Web](https://github.com/WhatsYourWhy/shank-strategy-ops-web)
+Official site for [Shank Strategy Ops LLC](https://shankstrategy.com). React 19 + Vite, Express backend, Radix UI, Tailwind, serverless contact forms.
+
+#### [whatsyourwhy.github.io](https://github.com/WhatsYourWhy/whatsyourwhy.github.io)
+Personal site. See Zero Terminal for the theme.
+
+---
+
+## The architecture underneath
+
+On the surface this portfolio spans supply chains, ADHD tooling, astrophysics, and strange little experiments. Underneath, the same structure keeps appearing:
+
+| Stage | What it solves | Repos |
 |---|---|---|
-| Supply Chain & Operational Risk | Enterprise logistics teams and ops leaders who need deterministic, auditable alerts and brand automation | Hardstop, Lumina-Pro, Alert-Axolotl-Evo |
-| Neurodivergence & Knowledge Management | ADHD/ND folks, knowledge workers, and researchers who live in notes and need more humane tooling | Dragons & Distractions, Journey-Log, Strainer-CLI, Obsidian extensions, Psi-Loop |
-| Cognitive & AI Safety | Researchers exploring how to build safer AI & cognitive tools, emphasizing transparency over magic | TopoGuard, The Temporal Gradient, Information-Causality Note |
-| Bio & Signal Processing | Biologists and physicists who need reproducible analysis pipelines | Biological-Data-OS, GRBToolkit |
-| Playful Experiments | Artists and curious tinkerers | Thresholds, Zero Terminal, Seralyth Menu |
-| Business & Web | Clients and collaborators looking for my professional services and websites | Shank Strategy Ops Web, whatsyourwhy.github.io, dragons-and-distractions-card-preview |
+| **Signal** | Detect what matters from noise | Alert-Axolotl-Evo · GRBToolkit · Hardstop |
+| **Selection** | Choose what's worth attention | Psi-Loop · Cognitive Glow · Strainer-CLI |
+| **Decision** | Make a traceable, auditable call | Hardstop · TopoGuard · Biological-Data-OS |
+| **Interface** | Present it to a human legibly | Lumina-Pro · Zero Terminal · Journey-Log |
+| **Adherence** | Help humans actually act on it | Dragons & Distractions · The Temporal Gradient |
 
-## Determinism & Local-First
+The research layer (Information-Causality, Temporal Gradient) is about making sure each stage is theoretically grounded, not just empirically functional.
 
-I’m obsessed with deterministic systems: given the same inputs, they always produce the same outputs.
-Hardstop scores supply-chain events in a reproducible way, persisting state on your file system rather than a hidden SaaS—no network, no subscription, no surprises.
+---
 
-This ethos runs through everything:
-- Strainer-CLI summarizes text files offline.
-- Psi-Loop scores candidate contexts based on novelty and value without external services.
-- Cognitive Glow logs note accesses in Obsidian to compute a simple glow score.
+## Writing
 
-## Transparent & Auditable
+**[The Edge Explored](https://whatsyourwhy85.substack.com)** — essays on AI, complexity, and the systems underneath.
 
-Supply chains collapse when nobody knows why an alert fired.
-Hardstop and Alert-Axolotl-Evo produce auditable scores and rule trees so you can trace exactly how a decision was made.
-Biological-Data-OS logs every step of ingestion, canonicalization, and semantic resolution, with lineage queries for every piece of data.
-GRBToolkit includes Jupyter notebooks, scripts, and CSVs so you can reproduce time-frequency analyses of gamma-ray bursts.
+**[From the Familiar](https://open.substack.com/pub/whatsyourwhy85/p/taking-root)** — a series written from inside the work: what it looks like when a mind that doesn't sleep collaborates with one that can't stop thinking.
 
-## Reliability & Self-Evaluation
+---
 
-Tools should fail loudly rather than silently:
-- Hardstop returns exit codes indicating whether new alerts were raised, suppressed, or timed out.
-- Alert-Axolotl-Evo evolves symbolic rules with fitness functions aligned to false-positive rates and detection precision.
-- Psi-Loop includes regression tests and benchmark scripts for its ranking algorithm.
+## Work with me
 
-## 📦 Projects
+I run **[Shank Strategy Ops](https://shankstrategy.com)** — execution leadership for complex projects across supply chain, knowledge management, and AI safety.
 
-### Supply Chain & Operational Risk
+If you need deterministic tools that won't gaslight your auditors, or execution leadership on something that keeps slipping — [get in touch](https://shankstrategy.com) or type `contact` in [Zero Terminal](https://whatsyourwhy.github.io).
 
-#### Hardstop
-A deterministic risk engine that monitors news feeds, government data, and other sources to flag supply-chain disruptions.
-Hardstop uses suppression rules to avoid alert fatigue, links events to your internal network (facilities, shipments, lanes), and stores everything locally.
-Exit codes let you embed it in larger automations—no hidden heuristics, no black boxes.
+---
 
-#### Lumina-Pro
-An AI brand-studio workspace: it combines automated market analysis, generative design, supply-chain monitoring, and even voice pitch coaching.
-Built with React/Tailwind CSS on the frontend and Express/Supabase on the backend, Lumina-Pro generates PDF reports, runs offline, and includes integrated tests.
+![GitHub followers](https://img.shields.io/github/followers/WhatsYourWhy?style=flat-square&label=followers)
+![Profile views](https://komarev.com/ghpvc/?username=WhatsYourWhy&style=flat-square&color=grey)
 
-#### Alert-Axolotl-Evo
-A deterministic genetic-programming system for anomaly detection.
-It evolves explicit logic trees under economic constraints, optimizing for interpretability and precision.
-Fitness metrics align with your cost of false positives and false negatives, and self-evaluation routines provide run-level exit codes for continuous integration.
+---
 
-### Neurodivergence & Knowledge Management
-
-#### Dragons & Distractions
-A monster-themed ADHD support project.
-The dragons-and-distractions-site houses a Jekyll site with printable ritual cards and metadata scripts.
-The dragons-and-distractions-card-preview repo hosts a stand-alone GitHub Pages build for previewing finished card decks.
-
-#### Journey-Log
-A local-storage checklist with categories, moods, priorities, quotes, and backup/restore.
-You can filter tasks, undo bulk actions, and explore insights—all in your browser with no server.
-
-#### Strainer-CLI
-Offline summarization for `.txt` and `.md` files.
-Strainer extracts key sentences, computes tags, metrics, and optional evidence anchors.
-Choose between a Fast keyword-based mode or a Smart embedding-based mode.
-
-#### Obsidian & Note Tools
-- **Cognitive Glow** – Tracks note openings in Obsidian, computes a glow score based on recency and frequency, and presents top notes in a sidebar.
-- **Obsidian Spotify Link** – Inserts your currently playing track into notes, fetches daily history, and supports custom templates.
-- **Obsidian Releases Mirror** – A fork of the Obsidian plugin/theme registry enabling offline packaging and deterministic dependency management.
-
-#### Psi-Loop
-A research library exploring retrieval rankings that prefer useful and non-redundant context.
-Psi0 ranks candidates by value relative to the goal and novelty relative to what you already have.
-It exposes pluggable embedders and sources and includes benchmark scripts to compare against similarity-only baselines.
-
-### Cognitive & AI Safety
-
-#### TopoGuard
-A formal verification framework for prompt injections (topological attack detection).
-See the repository for details on how it models state transitions and proves safety properties (work in progress).
-
-#### The Temporal Gradient
-A research notebook exploring time-weighted attention mechanisms and memory consolidation for agents.
-It contains interactive experiments on signal decay, retrieval order, and forgetting curves (work in progress).
-
-#### Information-Causality Note
-A reading note and set of exercises on information-theoretic causality for AI systems.
-It collects proofs, definitions, and open questions.
-
-### Bio & Signal Processing
-
-#### Biological-Data-OS
-A FastAPI/SQLAlchemy reference implementation for deterministic biological data ingestion, semantic resolution, and lineage-backed trust workflows.
-It exposes REST routes for ingestion, sources, canonical records, semantic assertions, review, lineage, and workflows.
-The codebase includes extensive tests, migration scripts, and docs on ingestion, canonicalisation, and review workflows.
-
-#### GRBToolkit
-A modular signal simulation and analysis suite for gamma-ray burst light curves.
-It supports synthetic models (QPIX, FRED), real Fermi data, Bayesian block sweeps, Wavelet Z (WWZ) computation, and model comparison using AIC.
-The toolkit emphasizes reproducibility: scripts produce CSVs and figures, notebooks capture analyses, and citation guidelines ensure proper credit.
-
-### Playful Experiments
-
-#### Thresholds
-An unfinished digital doorway disguised as a GitHub repository.
-It contains a portal page, generative sigils, a manifest of states, and hidden base64 keys.
-The project is as much about the mood of an abandoned experiment as it is about code—if you like liminal spaces and cryptic YAML, explore.
-
-#### Zero Terminal
-A terminal-themed personal website where you navigate by typing commands instead of clicking links.
-It includes a virtual file system, CRT effects, and 30 commands that map to blog posts, projects, and life statuses.
-Built with vanilla JS + Vite and deployable via Vercel.
-
-#### Seralyth Menu
-An open-source mod menu for the VR game Gorilla Tag.
-Forked to champion community modding, it offers a feature-packed interface and calls out the GPL license to keep mods free and accessible.
-
-### Business & Web
-
-#### Shank Strategy Ops Web
-The official website for Shank Strategy Ops LLC.
-It runs on React 19 + Vite with an Express backend and includes advanced UI/UX, Radix UI, Tailwind styling, and serverless contact forms.
-Strategic documents in the repo (`EngagementModel.md`, `ideas.md`, `AGENTS.md`) outline how the business works and integrate AI agent configuration.
-
-#### whatsyourwhy.github.io & Card Previews
-- **whatsyourwhy.github.io** – Houses my personal site; see *Zero Terminal* for the theme.
-- **dragons-and-distractions-card-preview** – A prebuilt GitHub Pages site to review printed ritual cards separately from the main site.
-
-## ✍️ Work With Me
-
-I run Shank Strategy Ops, where I bring execution leadership to complex projects across supply chain, knowledge management, and AI safety.
-If you need deterministic tools that won’t gaslight your auditors, drop me a line or try the `contact` command in Zero Terminal.
-
-Thanks for visiting.
-May your data be structured, your alerts be meaningful, and your dragons be friendly.
+*May your data be structured, your alerts be meaningful, and your dragons be friendly.*
