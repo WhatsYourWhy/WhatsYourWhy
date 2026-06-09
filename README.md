@@ -121,12 +121,6 @@ Pluggable embedders, benchmark scripts vs. similarity-only baselines. `research 
 Offline summarisation for `.txt` and `.md` files. Key sentences, tags, metrics, evidence anchors.  
 Fast (keyword) or Smart (embedding) mode. No server, no API key. `local-first` `production-shaped`
 
-#### [Obsidian Spotify Link](https://github.com/WhatsYourWhy/obsidian-spotify-link)
-Inserts currently playing track into Obsidian notes. Daily history, custom templates.
-
-#### [Obsidian Releases Mirror](https://github.com/WhatsYourWhy/obsidian-releases)
-Offline packaging and deterministic dependency management for the Obsidian plugin/theme registry.
-
 ---
 
 ### 🔬 Cognitive Architecture & AI Safety
