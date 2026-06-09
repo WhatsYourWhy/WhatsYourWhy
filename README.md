@@ -25,7 +25,7 @@ I build tools for operators, researchers, and people trying to think more clearl
   systems that fail loudly, not silently
 
 > open --best-work
-  Hardstop / Dragons & Distractions / The Temporal Gradient / GRBToolkit
+  Hardstop / Determinant / Dragons & Distractions / The Temporal Gradient / GRBToolkit
 ```
 
 ---
@@ -34,10 +34,10 @@ I build tools for operators, researchers, and people trying to think more clearl
 
 | I'm here for... | Start here |
 |---|---|
-| 🏭 **Operations** — risk, execution, auditable systems | [Hardstop](#hardstop) · [Alert-Axolotl-Evo](#alert-axolotl-evo) · [Shank Strategy Ops](#work-with-me) |
-| 🧠 **Neurodivergence** — ADHD tools, knowledge, humane interfaces | [Dragons & Distractions](#dragons--distractions) · [Cognitive Glow](#cognitive-glow) · [Psi-Loop](#psi-loop) |
-| 🔬 **Research** — cognitive architecture, AI safety, signal processing | [The Temporal Gradient](#the-temporal-gradient) · [TopoGuard](#topoguard) · [GRBToolkit](#grbtoolkit) |
-| 🌀 **Artifacts** — intentional experiments and liminal things | [Zero Terminal](#zero-terminal) · [Thresholds](#thresholds) |
+| 🏭 **Operations** — risk, execution, auditable systems | [Hardstop](#hardstop) · [Determinant](#determinant) · [Alert-Axolotl-Evo](#alert-axolotl-evo) · [Shank Strategy Ops](#work-with-me) |
+| 🧠 **Neurodivergence** — ADHD tools, knowledge, humane interfaces | [Dragons & Distractions](#dragons--distractions) · [Mage's Rituals](#mages-rituals) · [Cognitive Glow](#cognitive-glow) · [Psi-Loop](#psi-loop) |
+| 🔬 **Research** — cognitive architecture, AI safety, signal processing | [The Temporal Gradient](#the-temporal-gradient) · [TopoGuard](#topoguard) · [Determinant](#determinant) · [GRBToolkit](#grbtoolkit) |
+| 🌀 **Artifacts** — intentional experiments and liminal things | [Zero Terminal](#zero-terminal) · [Thresholds](#thresholds) · [Tarot of Modern Insanity](#tarot-of-modern-insanity) |
 | ✍️ **Writing** — AI, complexity, the systems underneath | [The Edge Explored →](https://whatsyourwhy85.substack.com) |
 
 ---
@@ -59,10 +59,10 @@ A few projects that best represent how I think and build:
 
 <p align="center">
 <a href="https://github.com/WhatsYourWhy/Hardstop"><b>Hardstop</b></a> ·
+<a href="https://github.com/WhatsYourWhy/Determinant"><b>Determinant</b></a> ·
 <a href="https://github.com/WhatsYourWhy/dragons-and-distractions-site"><b>Dragons & Distractions</b></a> ·
 <a href="https://github.com/WhatsYourWhy/The-Temporal-Gradient"><b>The Temporal Gradient</b></a> ·
-<a href="https://github.com/WhatsYourWhy/GRBToolkit"><b>GRBToolkit</b></a> ·
-<a href="https://github.com/WhatsYourWhy/TopoGuard"><b>TopoGuard</b></a>
+<a href="https://github.com/WhatsYourWhy/GRBToolkit"><b>GRBToolkit</b></a>
 </p>
 
 ---
@@ -83,6 +83,12 @@ Genetic programming for anomaly detection. Evolves explicit logic trees under ec
 **Best for:** ops automation, anomaly detection, interpretable ML  
 `deterministic` `auditable` `interpretable` `production-shaped`
 
+#### [Determinant](https://github.com/WhatsYourWhy/Determinant)
+Deterministic runtime for structured programs that may include agents — every run reproducible, inspectable, and explainable.  
+**Why it matters:** if you can't replay it, you can't trust it. Explicit state, deterministic steps, replayable ledgers. Not an agent framework — a compiler for auditable intelligence.  
+**Best for:** teams building auditable agent systems, safety-conscious AI ops  
+`deterministic` `auditable` `production-shaped`
+
 #### [Lumina-Pro](https://github.com/WhatsYourWhy/Lumina-Pro)
 AI brand-studio workspace combining market analysis, generative design, and supply-chain monitoring.  
 React 19 + Tailwind frontend, Express/Supabase backend. PDF reports, offline-capable, integrated tests.  
@@ -97,6 +103,11 @@ Monster-themed ADHD support. Printable ritual cards, metadata scripts, and a com
 **Why it matters:** humane tools for people whose brains don't organize like spreadsheets.  
 `production-shaped` `local-first`
 
+#### [Mage's Rituals](https://github.com/WhatsYourWhy/mages-rituals)
+Offline-first ADHD companion PWA built around the Dragons & Distractions bestiary. Name the monster. Run the ritual. Keep the scroll.  
+**Why it matters:** the ritual layer between knowing your monster and actually doing something about it.  
+All data in `localStorage` — no accounts, no cloud sync. `local-first` `active prototype`
+
 #### [Cognitive Glow](https://github.com/WhatsYourWhy/Cognitive-Glow)
 Obsidian plugin. Tracks note openings, computes a glow score (recency + frequency), surfaces top notes in a sidebar.  
 **Why it matters:** your best ideas are usually buried — this makes them float.  
@@ -109,10 +120,6 @@ Pluggable embedders, benchmark scripts vs. similarity-only baselines. `research 
 #### [Strainer-CLI](https://github.com/WhatsYourWhy/strainer-cli)
 Offline summarisation for `.txt` and `.md` files. Key sentences, tags, metrics, evidence anchors.  
 Fast (keyword) or Smart (embedding) mode. No server, no API key. `local-first` `production-shaped`
-
-#### [Journey-Log](https://github.com/WhatsYourWhy/journey-log)
-Browser-local checklist with categories, moods, priorities, quotes, backup/restore, bulk undo.  
-Zero server dependency. `local-first`
 
 #### [Obsidian Spotify Link](https://github.com/WhatsYourWhy/obsidian-spotify-link)
 Inserts currently playing track into Obsidian notes. Daily history, custom templates.
@@ -165,8 +172,9 @@ A terminal-themed personal website where you navigate by typing commands. Virtua
 #### [Thresholds](https://github.com/WhatsYourWhy/Thresholds)
 A digital doorway disguised as a repository. Portal page, generative sigils, a manifest of states, hidden base64 keys. For people who like liminal spaces and cryptic YAML. The mood is as intentional as the code.
 
-#### [Seralyth Menu](https://github.com/WhatsYourWhy/Seralyth-Menu)
-Open-source mod menu for Gorilla Tag (VR). Forked to champion community modding and keep the GPL chain intact.
+#### [Tarot of Modern Insanity](https://github.com/WhatsYourWhy/tarot-of-modern-insanity)
+A living card library for the absurd spiritual paperwork of being alive right now. One seed in, one card out — daily.  
+[Live deck →](https://whatsyourwhy.github.io/tarot-of-modern-insanity/)
 
 </details>
 
@@ -190,9 +198,9 @@ On the surface this portfolio spans supply chains, ADHD tooling, astrophysics, a
 |---|---|---|
 | **Signal** | Detect what matters from noise | Alert-Axolotl-Evo · GRBToolkit · Hardstop |
 | **Selection** | Choose what's worth attention | Psi-Loop · Cognitive Glow · Strainer-CLI |
-| **Decision** | Make a traceable, auditable call | Hardstop · TopoGuard · Biological-Data-OS |
-| **Interface** | Present it to a human legibly | Lumina-Pro · Zero Terminal · Journey-Log |
-| **Adherence** | Help humans actually act on it | Dragons & Distractions · The Temporal Gradient |
+| **Decision** | Make a traceable, auditable call | Hardstop · Determinant · TopoGuard · Biological-Data-OS |
+| **Interface** | Present it to a human legibly | Lumina-Pro · Zero Terminal · Mage's Rituals |
+| **Adherence** | Help humans actually act on it | Dragons & Distractions · Mage's Rituals · The Temporal Gradient |
 
 The research layer (Information-Causality, Temporal Gradient) is about making sure each stage is theoretically grounded, not just empirically functional.
 
